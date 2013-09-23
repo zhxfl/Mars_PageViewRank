@@ -1,0 +1,3 @@
+
+Have many large <string (url) -> int (visits)> maps.
+Calculate < string (url) -> int (sum of visits among all distributed maps), and get the top ten in the combined map.
